@@ -1,0 +1,80 @@
+
+
+      <!--Day One program -->
+
+          What is proteomics good for?<br>
+          What kind of questions can and cannot be answered.<br>
+ 
+
+          What is the interface/complementarity with other omics.
+ 
+
+          I have received results from a core facility - where do I start?<br>
+          How do I visualize and QC the data?
+ 
+          I don't find what I was expecting, what could have gone wrong?
+
+            <b>Being well prepared for statistics analysis - Day#2</b>
+  
+      <!--Day Two program -->
+
+          Morning Wrap-up (what have we done so far?)<br>
+          What are the most important variables in my analysis?
+   
+
+          How do I handle covariates and batch effects?
+ 
+
+          How do I handle covariates and batch effects? (cont.)<br>
+          What are the quantitative clusters in my experiment?
+ 
+
+          What are the quantitative clusters in my experiment? (cont.)
+
+           From quantitatives to biological insights - Day#3
+      <!--Day Three program -->
+
+          Morning Wrap-up (what have we done so far?)<br>
+          Are these clusters linked to specific pathways/biological processes?
+ 
+
+          Quantitative profiling of protein complexes. (cont.)
+          Comparison of different platforms for functional enrichment of biological pathways and their network representation.
+
+   
+          Comparison of different platforms for functional enrichment of biological pathways and their network representation. (cont.)
+ 
+
+      <!--Day Four program -->
+
+
+          Morning Wrap-up (what have we done so far?)<br>
+          How do I map my proteomics results to the genome?
+
+
+          Charting the possible consequences of genetic variants in proteins using Ensembl.
+  
+
+          How can we expand proteomic analyses to account for genomic variation.
+  
+
+          How can we expand proteomic analyses to account for genomic variation. (cont.)<br>
+          Final wrap-up.
+  
+
+            <b>Back to the genome - Day#5</b>
+ 
+      <!--Day Five program -->
+
+          Morning Wrap-up (what have we done so far?)<br>
+          The association of protein abundances with genetic variants.
+   
+          How do gene, transcript, and protein abundance estimates correlate?
+
+          How do gene, transcript, and protein abundance estimates correlate? (cont.)
+ 
+         How do gene, transcript, and protein abundance estimates correlate? (cont.)<br>
+          Final wrap-up.
+    
+
+
