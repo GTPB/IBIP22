@@ -16,5 +16,5 @@ There are also a few tool-specific videos here:
 [![stringApp](training_stringapp.png)](https://youtu.be/MXmzXxNqmnI)
 [![Omics Visualizer](training_omicsvisualizer.png)](https://youtu.be/-O1m0T6WdrA)
 
-You can find more similar lecture on [this YouTube channel](https://www.youtube.com/c/larsjuhljensen).
+You can find more similar lectures on [this YouTube channel](https://www.youtube.com/c/larsjuhljensen).
 
