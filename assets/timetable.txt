@@ -1,0 +1,325 @@
+
+
+      <!--Day One program -->
+
+      <tr>
+        <td>09:30 - 11:00</td>
+        <td>
+          What is proteomics good for?<br>
+          What kind of questions can and cannot be answered.<br>
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:00 - 11:30</td>
+        <td style="background:#DCDCDC">
+          Coffee Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:30 - 12:30</td>
+        <td>
+          What is the interface/complementarity with other omics.
+        </td>
+      </tr>
+
+      <tr>
+        <td>12:30 - 14:00</td>
+        <td style="background:#DCDCDC">
+          Lunch Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>14:00 - 16:00</td>
+        <td>
+          I have received results from a core facility - where do I start?<br>
+          How do I visualize and QC the data?
+        </td>
+      </tr>
+
+      <tr>
+        <td>16:00 - 16:30</td>
+        <td style="background:#DCDCDC">
+          Tea Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>16:30 - 18:00</td>
+        <td>
+          I don&apos;t find what I was expecting, what could have gone wrong?
+        </td>
+      </tr>
+
+      <!--   -->
+
+      <tr>
+        <td style="background:#FFCC00">
+          <b>Tue, Jun 21st</b>
+        </td>
+        <td style="background:#FFCC00">
+          <div align="right">
+            <b>Being well prepared for statistics analysis - Day#2</b>
+          </div>
+        </td>
+      </tr>
+
+      <!--Day Two program -->
+
+      <tr>
+        <td>09:30 - 11:00</td>
+        <td>
+          Morning Wrap-up (what have we done so far?)<br>
+          What are the most important variables in my analysis?
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:00 - 11:30</td>
+        <td style="background:#DCDCDC">
+          Coffee Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:30 - 12:30</td>
+        <td>
+          How do I handle covariates and batch effects?
+        </td>
+      </tr>
+
+      <tr>
+        <td>12:30 - 14:00</td>
+        <td style="background:#DCDCDC">
+          Lunch Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>14:00 - 16:00</td>
+        <td>
+          How do I handle covariates and batch effects? (cont.)<br>
+          What are the quantitative clusters in my experiment?
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>16:00 - 16:30</td>
+        <td style="background:#DCDCDC">
+          Tea Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>16:30 - 18:00</td>
+        <td>
+          What are the quantitative clusters in my experiment? (cont.)
+        </td>
+      </tr>
+
+      <!--   -->
+
+      <tr>
+        <td style="background:#FFCC00">
+          <b>Wed, Jun 22nd</b>
+        </td>
+        <td style="background:#FFCC00">
+          <div align="right">
+            <b>From quantitatives to biological insights - Day#3</b>
+          </div>
+        </td>
+      </tr>
+
+      <!--Day Three program -->
+
+      <tr>
+        <td>09:30 - 11:00</td>
+        <td>
+          Morning Wrap-up (what have we done so far?)<br>
+          Are these clusters linked to specific pathways/biological processes?
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:00 - 11:30</td>
+        <td style="background:#DCDCDC">
+          Coffee Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:30 - 12:30</td>
+        <td>
+          Quantitative profiling of protein complexes.
+        </td>
+      </tr>
+
+      <tr>
+        <td>12:30 - 14:00</td>
+        <td style="background:#DCDCDC">
+          Lunch Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>14:00 - 16:00</td>
+        <td>
+          Quantitative profiling of protein complexes. (cont.)<br>
+          Comparison of different platforms for functional enrichment of biological pathways and their network representation.
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>16:00 - 16:30</td>
+        <td style="background:#DCDCDC">
+          Tea Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>16:30 - 18:00</td>
+        <td>
+          Comparison of different platforms for functional enrichment of biological pathways and their network representation. (cont.)
+        </td>
+      </tr>
+
+      <!--   -->
+
+      <tr>
+        <td style="background:#FFCC00">
+          <b>Thu, Jun 23rd</b>
+        </td>
+        <td style="background:#FFCC00">
+          <div align="right">
+            <b>Back to the genome - Day#4</b>
+          </div>
+        </td>
+      </tr>
+
+      <!--Day Four program -->
+
+      <tr>
+        <td>09:30 - 11:00</td>
+        <td>
+          Morning Wrap-up (what have we done so far?)<br>
+          How do I map my proteomics results to the genome?
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:00 - 11:30</td>
+        <td style="background:#DCDCDC">
+          Coffee Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:30 - 12:30</td>
+        <td>
+          Charting the possible consequences of genetic variants in proteins using Ensembl.
+        </td>
+      </tr>
+
+      <tr>
+        <td>12:30 - 14:00</td>
+        <td style="background:#DCDCDC">
+          Lunch Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>14:00 - 16:00</td>
+        <td>
+          How can we expand proteomic analyses to account for genomic variation.
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>16:00 - 16:30</td>
+        <td style="background:#DCDCDC">
+          Tea Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>16:30 - 18:00</td>
+        <td>
+          How can we expand proteomic analyses to account for genomic variation. (cont.)<br>
+          Final wrap-up.
+        </td>
+      </tr>
+
+
+      <tr>
+        <td style="background:#FFCC00">
+          <b>Fri, Jun 24th</b>
+        </td>
+        <td style="background:#FFCC00">
+          <div align="right">
+            <b>Back to the genome - Day#5</b>
+          </div>
+        </td>
+      </tr>
+      <!--Day Five program -->
+
+      <tr>
+        <td>09:30 - 11:00</td>
+        <td>
+          Morning Wrap-up (what have we done so far?)<br>
+          The association of protein abundances with genetic variants.
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:00 - 11:30</td>
+        <td style="background:#DCDCDC">
+          Coffee Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>11:30 - 12:30</td>
+        <td>
+          How do gene, transcript, and protein abundance estimates correlate?
+        </td>
+      </tr>
+
+      <tr>
+        <td>12:30 - 14:00</td>
+        <td style="background:#DCDCDC">
+          Lunch Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>14:00 - 16:00</td>
+        <td>
+          How do gene, transcript, and protein abundance estimates correlate? (cont.)
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>16:00 - 16:30</td>
+        <td style="background:#DCDCDC">
+          Tea Break
+        </td>
+      </tr>
+
+      <tr>
+        <td>16:30 - 18:00</td>
+        <td>
+         How do gene, transcript, and protein abundance estimates correlate? (cont.)<br>
+          Final wrap-up.
+        </td>
+      </tr>
+
+      </tbody>
+    </table>
+
+
