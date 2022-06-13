@@ -2,7 +2,7 @@
 
 ### Computational proteomics
 
-Online lecture on computational proteomics [here](http://training.bmb.sdu.dk/courses/course-v1:University_of_Southern_Denmark+SDU_BMB_COMPPROT+2020_1/about) by Karin Hjernø and Veit Schwämmle from SDU, Denmark.
+Online lecture on computational proteomics [here](http://training.bmb.sdu.dk/courses/course-v1:University_of_Southern_Denmark+SDU_BMB_COMPPROT+2020_1/about) by Karin Hjernø and Veit Schwämmle from SDU, Denmark. To enroll, you need to register with your email so that you can continue doing the course where you stopped. 
 
 ### Biological networks & enrichment
 
@@ -12,6 +12,7 @@ There are also a few tool-specific videos here:
 
 [![STRING](training_string.png)](https://youtu.be/o208DwyFbNk)
 [![Cytoscape](training_cytoscape.png)](https://youtu.be/Ohf9IPUJ82w)
+
 [![stringApp](training_stringapp.png)](https://youtu.be/MXmzXxNqmnI)
 [![Omics Visualizer](training_omicsvisualizer.png)](https://youtu.be/-O1m0T6WdrA)
 
