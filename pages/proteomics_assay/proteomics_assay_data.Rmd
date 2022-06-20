@@ -58,6 +58,14 @@ protein_values <- read.table(
 ) %>% 
   clean_names() # This function makes the formatting of the column names uniform, note that it transforms the identifiers of the proteins
 
+# write.table(
+#   x = protein_values,
+#   col.names = T,
+#   row.names = F,
+#   sep = "\t",
+#   file = file.path(files_folder, "soma_example.gz")
+# )
+
 samples_details <- read.table(
   file = file.path(files_folder, "soma_example_2.gz"),
   header = T,
@@ -748,6 +756,4 @@ ggplot() +
   )
 
 ```
-
-
 

@@ -68,6 +68,14 @@ system, use the `ìnstall_packages` command to install them.
     ) %>% 
       clean_names() # This function makes the formatting of the column names uniform, note that it transforms the identifiers of the proteins
 
+    # write.table(
+    #   x = protein_values,
+    #   col.names = T,
+    #   row.names = F,
+    #   sep = "\t",
+    #   file = file.path(files_folder, "soma_example.gz")
+    # )
+
     samples_details <- read.table(
       file = file.path(files_folder, "soma_example_2.gz"),
       header = T,
@@ -210,7 +218,7 @@ influence downstream analyses?*
         )
       )
 
-    ## Warning: Removed 657 rows containing non-finite values (stat_bin).
+    ## Warning: Removed 3 rows containing non-finite values (stat_bin).
 
 ![](proteomics_assay_data_files/figure-markdown_strict/unnamed-chunk-6-1.png)
 
@@ -233,7 +241,7 @@ influence downstream analyses?*
         name = glue("Standardized abundance estimate of {selected_protein}")
       )
 
-    ## Warning: Removed 657 rows containing missing values (geom_point).
+    ## Warning: Removed 3 rows containing missing values (geom_point).
 
 ![](proteomics_assay_data_files/figure-markdown_strict/unnamed-chunk-7-1.png)
 
@@ -488,21 +496,21 @@ the disease classes
     ## 
     ## Residuals:
     ##     Min      1Q  Median      3Q     Max 
-    ## -1.0805 -0.6187 -0.1706  0.4347  2.2845 
+    ## -1.3736 -0.3283 -0.1226  0.2698  6.4926 
     ## 
     ## Coefficients:
-    ##             Estimate Std. Error t value Pr(>|t|)  
-    ## (Intercept) -2.78280    1.10235  -2.524   0.0163 *
-    ## group_level -0.37788    0.32886  -1.149   0.2583  
-    ## age          0.01107    0.01617   0.684   0.4983  
-    ## bmi          0.07980    0.03533   2.259   0.0302 *
-    ## sex          0.61198    0.31845   1.922   0.0628 .
+    ##              Estimate Std. Error t value Pr(>|t|)  
+    ## (Intercept) -0.153188   0.320226  -0.478   0.6327  
+    ## group_level  0.093163   0.097110   0.959   0.3381  
+    ## age          0.009273   0.004196   2.210   0.0278 *
+    ## bmi         -0.010061   0.010184  -0.988   0.3240  
+    ## sex         -0.039089   0.084630  -0.462   0.6445  
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ## 
-    ## Residual standard error: 0.8859 on 35 degrees of freedom
-    ## Multiple R-squared:  0.2172, Adjusted R-squared:  0.1277 
-    ## F-statistic: 2.428 on 4 and 35 DF,  p-value: 0.06612
+    ## Residual standard error: 0.7013 on 309 degrees of freedom
+    ## Multiple R-squared:  0.02357,    Adjusted R-squared:  0.01093 
+    ## F-statistic: 1.865 on 4 and 309 DF,  p-value: 0.1165
 
 :pencil2: Plot the association with all classes.
 
@@ -658,10 +666,10 @@ vs healthy taking age, BMI, and sex as covariate.
       
     }
 
-    ## 2022-06-20 08:57:06 - Processing Class_1
-    ## 2022-06-20 08:59:55 - Processing Class_2a
-    ## 2022-06-20 09:02:42 - Processing Class_2b
-    ## 2022-06-20 09:05:29 - Processing Class_L
+    ## 2022-06-20 17:42:34 - Processing Class_1
+    ## 2022-06-20 17:45:38 - Processing Class_2a
+    ## 2022-06-20 17:48:39 - Processing Class_2b
+    ## 2022-06-20 17:51:34 - Processing Class_L
 
 :pencil2: Plot the significance against the effect size for each
 comparison.
