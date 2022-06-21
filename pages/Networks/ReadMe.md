@@ -2,7 +2,7 @@
 
 ### What we need to know about biological pathways and networks?
 
-In this session, we will talk about different types of biological networks, and specifically the STRING database of functional protein associations. We will learn how we can use such databases to find out more about a list of genes or proteins, identified to behave differentially in a given experiment. 
+In this session, we will talk about different types of biological networks, and specifically the STRING database of functional protein associations. We will learn how we can use such databases to find out more about a list of genes or proteins, identified to behave differentially in a given experiment. The slides are [here]("20220622 STRING and Cytoscape for proteomics data analysis.pdf").  
 
 You can go to the STRING exercises [here](https://jensenlab.org/training/string/eubic/). 
 
