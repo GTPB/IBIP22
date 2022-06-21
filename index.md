@@ -56,7 +56,7 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 ## Detailed Program
 
 ### Introduction
-- [Installation](pages/(Installation.md)
+- [Installation](pages/Installation.md)
 - [Proteomics Assay Data](pages/proteomics_assay/proteomics_assay_data.md)
 
 ### QC of proteomics data
@@ -71,8 +71,6 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 ### Learning objectives
 
 After the training, participants will be able to critically interpret results, troubleshoot analyses, and will be ready to successfully attend more specialized training e.g. in proteogenomics or biological network analysis.
-
-### [Instructors](pages/instructors.md)
 
 ---
 
