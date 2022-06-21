@@ -56,11 +56,11 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 ## Detailed Program
 
 ### Introduction
-- [Installation](pages/(Installation.md)
+- [Installation](pages/Installation.md)
 - [Proteomics Assay Data](pages/proteomics_assay/proteomics_assay_data.md)
 
 ### QC of proteomics data
-- [Activities](pages/QC_Workshop/UPS_qc.ipynb)
+- [Activities](pages/QC_Workshop/README.md)
 
 ### Networks: from quantitatives to biological insights
 - [Slides](pages/Networks/20220622_STRING_and_Cytoscape_for_proteomics_data_analysis.pdf)
@@ -71,8 +71,6 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 ### Learning objectives
 
 After the training, participants will be able to critically interpret results, troubleshoot analyses, and will be ready to successfully attend more specialized training e.g. in proteogenomics or biological network analysis.
-
-### [Instructors](pages/instructors.md)
 
 ---
 
