@@ -60,7 +60,7 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 - [Proteomics Assay Data](pages/proteomics_assay/proteomics_assay_data.md)
 
 ### QC of proteomics data
-- [Activities](pages/QC_Workshop/UPS_qc.ipynb)
+- [Activities](pages/QC_Workshop/README.md)
 
 ### Networks: from quantitatives to biological insights
 - [Slides](pages/Networks/20220622_STRING_and_Cytoscape_for_proteomics_data_analysis.pdf)
