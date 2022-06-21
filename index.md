@@ -62,8 +62,20 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 ### QC of proteomics data
 - [Activities](pages/QC_Workshop/README.md)
 
+### Wrap-up Tuesday
+- [Slides](pages/Wrap_up_Tuesday.pptx)
+
 ### Networks: from quantitatives to biological insights
 - [Slides](pages/Networks/20220622_STRING_and_Cytoscape_for_proteomics_data_analysis.pdf)
+
+### Proteogenomics
+- [Overview](pages/Proteogenomics/README.md)
+
+### Quantitative clustering and Multivariate analysis
+- [Overview](pages/QuantitativeClustering/README.me)
+
+### Protein complexes
+- [Overview](pages/Protein_Complexes/README.me)
 
 
 ---
