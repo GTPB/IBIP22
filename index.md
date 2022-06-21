@@ -8,11 +8,12 @@ schemadotorg:
   # Course details
        # "name" -> The acronym and extended name of the course, separated by " - "
        # "description" -> Short description of the course
-  name: "COURSE_SHORT - COURSE_EXTENDED_NAME"
-  description: ""
+  name: "IBIP22 - Integrative Biological Interpretation using Proteomics"
+  description: "Quantitative proteomics by mass spectrometry has become an essential tool for multi-omics studies aiming at answering important biological questions in a system-wide perspective. Proteomics data contain rich and deep information that can become challenging to extract, interpret, and interface with other experimental outcomes.
+This training course is aimed at researchers who are not expert in proteomics and want to integrate quantitative proteomics results into wider biomedical experiments. We will focus on quality control from an end-user perspective, link to the underlying genomic context, multivariate analysis, protein complexes investigation, and compare different platforms for biological interpretation."
 
   # Keywords -> Consult EDAM:Topic
-  keywords:  ""
+keywords:  "http://edamontology.org/topic_0121,http://edamontology.org/topic_0602,http://edamontology.org/topic_0085,http://edamontology.org/topic_0121,http://edamontology.org/topic_3922"
 
   # Audience -> Following Elixir-Tess input
   audience: ["Academia/ Research Institution", "Industry", "Non-Profit Organisation", "Healthcare"]
@@ -30,11 +31,11 @@ schemadotorg:
   # Contributor info
   contributor:
     - "@type": Person
-      name: "CO-AUTHOR_1"
+      name: "Veit Schwämmle"
     - "@type": Person
-      name: "CO-AUTHOR_2"
+      name: "Marc Vaudel"
     - "@type": Person
-      name: "CO-AUTHOR_3"
+      name: "Nadezhda Doncheva"
 
   # License & Language & url
   license: https://creativecommons.org/licenses/by/4.0/
@@ -42,24 +43,40 @@ schemadotorg:
   url: "https://gtpb.github.io/Web_course_template/"
 ---
 
+![CPANG22](/assets/IBIP22.png)
+
 ## Course Description
 
+Quantitative proteomics by mass spectrometry has become an essential tool for multi-omics studies aiming at answering important biological questions in a system-wide perspective. Proteomics data contain rich and deep information that can become challenging to extract, interpret, and interface with other experimental outcomes. This training course is aimed at researchers who are not expert in proteomics and want to integrate quantitative proteomics results into wider biomedical experiments. We will focus on quality control from an end-user perspective, link to the underlying genomic context, multivariate analysis, protein complexes investigation, and compare different platforms for biological interpretation.
 
 ## Target Audience
 
+This course is oriented towards biologists and bioinformaticians. The course will be of particular interest to researchers interested in biologically interpreting proteomics data, and to integrate it with other data types like genomics.
 
 ## Detailed Program
+
+### Introduction
+- [Installation](pages/(Installation.md)
+- [Proteomics Assay Data](pages/proteomics_assay/proteomics_assay_data.md)
+
+### QC of proteomics data
+- [Activities](pages/QC_Workshop/UPS_qc.ipynb)
+
+### Networks: from quantitatives to biological insights
+- [Slides](pages/Networks/20220622_STRING_and_Cytoscape_for_proteomics_data_analysis.pdf)
 
 
 ---
 
 ### Learning objectives
 
-### Instructors
+After the training, participants will be able to critically interpret results, troubleshoot analyses, and will be ready to successfully attend more specialized training e.g. in proteogenomics or biological network analysis.
+
+### [Instructors](pages/instructors.md)
 
 ---
 
-The source for this course webpage is [in github](https://github.com/GTPB/Web_course_template).
+The source for this course webpage is [in github](https://github.com/GTPB/IBIP22).
 
 <br/>
 
