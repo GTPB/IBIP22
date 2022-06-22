@@ -1,6 +1,6 @@
 ## IBIP22 - Integrative Biological Interpretation using Proteomics
 
-###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - June 20<sup>th</sup> - Junw 24<sup>th</sup> 2022
+###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - June 20<sup>th</sup> - June 24<sup>th</sup> 2022
 Go to the [course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/2022/IBIP22/)
 
 For the more readible version of the course material, see [https://gtpb.github.io/IBIP22/](https://gtpb.github.io/IBIP22/)
