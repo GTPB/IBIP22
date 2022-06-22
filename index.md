@@ -44,7 +44,7 @@ keywords:  "http://edamontology.org/topic_0121,http://edamontology.org/topic_060
 ---
 
 
-![CPANG22](/assets/IBIP22.png)
+![IBIP22](/assets/IBIP22.png)
 
 ## Course Description
 
