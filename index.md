@@ -43,8 +43,6 @@ keywords:  "http://edamontology.org/topic_0121,http://edamontology.org/topic_060
   url: "https://gtpb.github.io/Web_course_template/"
 ---
 
-# IBIP22 - Integrative Biological Interpretation using Proteomics
-
 
 ![CPANG22](/assets/IBIP22.png)
 
