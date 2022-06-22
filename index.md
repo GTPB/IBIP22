@@ -71,8 +71,14 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 ### Proteogenomics
 - [Overview](pages/Proteogenomics/README.md)
 
+### Wrap-up Wednesday
+- [Slides](pages/Wrap_up_Wednesday.pptx)
+
 ### Quantitative clustering and Multivariate analysis
 - [Overview](pages/QuantitativeClustering/README.me)
+
+### Wrap-up Thursday
+- [Slides](pages/Wrap_up_Thursday.pptx)
 
 ### Protein complexes
 - [Overview](pages/Protein_Complexes/README.me)
