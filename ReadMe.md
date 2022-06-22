@@ -3,7 +3,7 @@
 ###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - May 23<sup>th</sup> - May 27<sup>th</sup> 2022
 Go to the [course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/2022/IBIP22/)
 
-For the more readible version of this material, see [https://gtpb.github.io/IBIP22/](https://gtpb.github.io/IBIP22/)
+For the more readible version of the course material, see [https://gtpb.github.io/IBIP22/](https://gtpb.github.io/IBIP22/)
 
 ---
 
