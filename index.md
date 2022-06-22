@@ -67,7 +67,7 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 - [Slides](pages/Wrap_up_Tuesday.pptx)
 
 ### Networks: from quantitatives to biological insights
-- [Slides](pages/Networks/20220622_STRING_and_Cytoscape_for_proteomics_data_analysis.pdf)
+- [Overview](pages/Networks/ReadMe.md)
 
 ### Proteogenomics
 - [Overview](pages/Proteogenomics/README.md)
@@ -76,13 +76,13 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 - [Slides](pages/Wrap_up_Wednesday.pptx)
 
 ### Quantitative clustering and Multivariate analysis
-- [Overview](pages/QuantitativeClustering/README.me)
+- [Overview](pages/QuantitativeClustering/README.md)
 
 ### Wrap-up Thursday
 - [Slides](pages/Wrap_up_Thursday.pptx)
 
 ### Protein complexes
-- [Overview](pages/Protein_Complexes/README.me)
+- [Overview](pages/Protein_Complexes/README.md)
 
 
 ---
