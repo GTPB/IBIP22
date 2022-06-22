@@ -11,7 +11,7 @@ For the more readible version of the course material, see [https://gtpb.github.i
 
 The following co-authors contributed to the development of the training material.
 
-* [Veit Schwämmle](https://github.com/veitveit)
+* [Veit Schw&auml;mmle](https://github.com/veitveit)
 * [Marc Vaudel](https://github.com/mvaudel)
 * [Nadezhda T. Doncheva](https://github.com/scaramonche)
 
