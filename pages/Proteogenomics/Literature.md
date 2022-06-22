@@ -6,7 +6,7 @@ Literature relevant to the project
 ### Reviews
 
 - [_Nesvizhskii_](https://www.nature.com/articles/nmeth.3144): Reference review on proteogenomics
-- [_Menschaert and Fenyö_](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/mas.21483): Reference review on proteogenomics bioinformatics
+- [_Menschaert and Feny&ouml;_](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/mas.21483): Reference review on proteogenomics bioinformatics
 - [_Buccitelli and Selbach_](https://doi.org/10.1038/s41576-020-0258-4): Reference review on mRNA and protein correlation
 
 
@@ -19,7 +19,7 @@ Literature relevant to the project
 - [_Mertins et al._](https://www.nature.com/articles/nature18003): Proteogenomic analysis of breast cancer
 - [_Johansson et al._](https://www.nature.com/articles/s41467-019-09018-y): Proteogenomic analysis of breast cancer
 - [_Zhang et al._](https://www.nature.com/articles/nature13438): Proteogenomic analysis of colon and rectal cancer
-- [_Gonçalves et al._](https://www.sciencedirect.com/science/article/pii/S240547121730385X): CNV/CNA attenuation
+- [_GonÃ§alves et al._](https://www.sciencedirect.com/science/article/pii/S240547121730385X): CNV/CNA attenuation
 - [_Zhang et al._](http://dx.doi.org/10.1016/j.cell.2016.05.069): Proteogenomics analysis of ovarian cancer
 - [_Frazier et al._](https://doi.org/10.1016/j.medj.2020.06.004): A case report using proteogenomics to find the cause of the disease
 - [_Otto et al._](https://onlinelibrary.wiley.com/doi/10.1002/prca.202000012): An assay for the detection of variant proteins for prostate cancer
