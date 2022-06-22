@@ -3,13 +3,15 @@
 ###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - May 23<sup>th</sup> - May 27<sup>th</sup> 2022
 Go to the [course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/2022/IBIP22/)
 
+For the more readible version of the course material, see [https://gtpb.github.io/IBIP22/](https://gtpb.github.io/IBIP22/)
+
 ---
 
 #### Co-Authorship
 
 The following co-authors contributed to the development of the training material.
 
-* [Veit Schwämmle](https://github.com/veitveit)
+* [Veit Schw&auml;mmle](https://github.com/veitveit)
 * [Marc Vaudel](https://github.com/mvaudel)
 * [Nadezhda T. Doncheva](https://github.com/scaramonche)
 
