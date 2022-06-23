@@ -9,7 +9,8 @@ schemadotorg:
        # "name" -> The acronym and extended name of the course, separated by " - "
        # "description" -> Short description of the course
   name: "IBIP22 - Integrative Biological Interpretation using Proteomics"
-  description: ""
+  description: "Quantitative proteomics by mass spectrometry has become an essential tool for multi-omics studies aiming at answering important biological questions in a system-wide perspective. Proteomics data contain rich and deep information that can become challenging to extract, interpret, and interface with other experimental outcomes.
+This training course is aimed at researchers who are not expert in proteomics and want to integrate quantitative proteomics results into wider biomedical experiments. We will focus on quality control from an end-user perspective, link to the underlying genomic context, multivariate analysis, protein complexes investigation, and compare different platforms for biological interpretation."
 
   # Keywords -> Consult EDAM:Topic
   keywords:  ""
