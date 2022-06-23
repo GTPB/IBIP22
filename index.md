@@ -8,7 +8,7 @@ schemadotorg:
   # Course details
        # "name" -> The acronym and extended name of the course, separated by " - "
        # "description" -> Short description of the course
-  name: "IBIP22 - Integrative Biological Interpretation using Proteomics"
+  name: "IBIP22 - COURSE_EXTENDED_NAME"
   description: ""
 
   # Keywords -> Consult EDAM:Topic
