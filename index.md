@@ -13,7 +13,7 @@ schemadotorg:
 This training course is aimed at researchers who are not expert in proteomics and want to integrate quantitative proteomics results into wider biomedical experiments. We will focus on quality control from an end-user perspective, link to the underlying genomic context, multivariate analysis, protein complexes investigation, and compare different platforms for biological interpretation."
 
   # Keywords -> Consult EDAM:Topic
-  keywords:  ""
+  keywords:  "http://edamontology.org/topic_0121,http://edamontology.org/topic_0602,http://edamontology.org/topic_0085,http://edamontology.org/topic_0121,http://edamontology.org/topic_3922"
 
   # Audience -> Following Elixir-Tess input
   audience: ["Academia/ Research Institution", "Industry", "Non-Profit Organisation", "Healthcare"]
