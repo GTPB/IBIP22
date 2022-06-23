@@ -91,8 +91,6 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 
 After the training, participants will be able to critically interpret results, troubleshoot analyses, and will be ready to successfully attend more specialized training e.g. in proteogenomics or biological network analysis.
 
-### Instructors
-
 ---
 
 The source for this course webpage is [in github](https://github.com/GTPB/IBIP22).
