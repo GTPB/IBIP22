@@ -31,11 +31,12 @@ This training course is aimed at researchers who are not expert in proteomics an
   # Contributor info
   contributor:
     - "@type": Person
-      name: "CO-AUTHOR_1"
+      name: "Veit Schwämmle"
     - "@type": Person
-      name: "CO-AUTHOR_2"
+      name: "Marc Vaudel"
     - "@type": Person
-      name: "CO-AUTHOR_3"
+      name: "Nadezhda Doncheva"
+
 
   # License & Language & url
   license: https://creativecommons.org/licenses/by/4.0/
