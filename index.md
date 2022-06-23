@@ -44,24 +44,58 @@ This training course is aimed at researchers who are not expert in proteomics an
   url: "https://gtpb.github.io/Web_course_template/"
 ---
 
+![IBIP22](/assets/IBIP22.png)
+
 ## Course Description
 
+Quantitative proteomics by mass spectrometry has become an essential tool for multi-omics studies aiming at answering important biological questions in a system-wide perspective. Proteomics data contain rich and deep information that can become challenging to extract, interpret, and interface with other experimental outcomes. This training course is aimed at researchers who are not expert in proteomics and want to integrate quantitative proteomics results into wider biomedical experiments. We will focus on quality control from an end-user perspective, link to the underlying genomic context, multivariate analysis, protein complexes investigation, and compare different platforms for biological interpretation.
 
 ## Target Audience
 
+This course is oriented towards biologists and bioinformaticians. The course will be of particular interest to researchers interested in biologically interpreting proteomics data, and to integrate it with other data types like genomics.
 
 ## Detailed Program
+
+### Introduction
+- [Installation](pages/Installation.md)
+- [Proteomics Assay Data](pages/proteomics_assay/proteomics_assay_data.md)
+
+### QC of proteomics data
+- [Activities](pages/QC_Workshop/README.md)
+
+### Wrap-up Tuesday
+- [Slides](pages/Wrap_up_Tuesday.pptx)
+
+### Networks: from quantitatives to biological insights
+- [Overview](pages/Networks/ReadMe.md)
+
+### Proteogenomics
+- [Overview](pages/Proteogenomics/README.md)
+
+### Wrap-up Wednesday
+- [Slides](pages/Wrap_up_Wednesday.pptx)
+
+### Quantitative clustering and Multivariate analysis
+- [Overview](pages/QuantitativeClustering/README.md)
+
+### Wrap-up Thursday
+- [Slides](pages/Wrap_up_Thursday.pptx)
+
+### Protein complexes
+- [Overview](pages/Protein_Complexes/README.md)
 
 
 ---
 
 ### Learning objectives
 
+After the training, participants will be able to critically interpret results, troubleshoot analyses, and will be ready to successfully attend more specialized training e.g. in proteogenomics or biological network analysis.
+
 ### Instructors
 
 ---
 
-The source for this course webpage is [in github](https://github.com/GTPB/Web_course_template).
+The source for this course webpage is [in github](https://github.com/GTPB/IBIP22).
 
 <br/>
 
