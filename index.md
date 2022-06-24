@@ -84,6 +84,13 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 ### Protein complexes
 - [Overview](pages/Protein_Complexes/README.md)
 
+### Wrap-up Thursday
+- [Slides](pages/Wrap_up_Friday.pptx)
+
+### Blind hackathon
+
+- [Instructions](pages/BlindHackathon/README.md)
+
 
 ---
 
