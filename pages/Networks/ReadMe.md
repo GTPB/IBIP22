@@ -12,7 +12,7 @@ In this session, we will focus more on the standalone tool for network visualiza
 
 There are more [Cytoscape tutorials](https://github.com/cytoscape/cytoscape-tutorials/wiki) as well as a [collection of publications using Cytoscape](https://cytoscape-publications.tumblr.com/).
 
-If you interested in automatizing your workflows in Cytoscape using R or Python have a look at the [Cytoscape automation documentation](https://github.com/cytoscape/cytoscape-automation/wiki) and these [recourses on GitHub](https://github.com/scaramonche/EuBIC2020_Cytoscape). 
+If you interested in automatizing your workflows in Cytoscape using R or Python have a look at the [Cytoscape automation documentation](https://github.com/cytoscape/cytoscape-automation/wiki) and these [resources on GitHub](https://github.com/scaramonche/EuBIC2020_Cytoscape). 
 
 ### What can you find out about your own dataset using Cytoscape? 
 
